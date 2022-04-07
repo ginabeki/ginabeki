@@ -28,10 +28,10 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=ginabeki&show_icons=true&theme=jolly&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginabeki&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
