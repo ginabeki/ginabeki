@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
-<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="Gif" height="400px" width="900px">
-</div>
+<!-- <div align="center"> 
+<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="Gif" height="200px" width="800px">
+</div> -->
 
 <div align="center">
 <!-- <p>
