@@ -1,5 +1,4 @@
-### Hi there 👋 Nice to meet you
-I'm a software engineer with keen focus on 
+### Hi there 👋 Nice to meet you.
 
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <a href="#">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginabeki&langs_count=8&theme=jolly&layout=compact" />
 </a>
-
+<p>Let's connect here:</p>
 <p> 
   <a href="https://twitter.com/_gina_bw" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/gina-beki-a85846103/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
