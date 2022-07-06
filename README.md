@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 Nice to meet you
+I'm a software engineer with keen focus on 
 
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
