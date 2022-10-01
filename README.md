@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 </div>
 
 ![](https://komarev.com/ghpvc/?username=ginabeki&label=PROFILE+VIEWS)
+
+[![@gina's Holopin board](https://holopin.io/api/user/board?user=gina)](https://holopin.io/@gina)
