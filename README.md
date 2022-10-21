@@ -1,5 +1,11 @@
 ### Hi there 👋 
+I'm a software developer from Nairobi, Kenya
 
+- 🔭 I’m currently working on <b>Open Source Projects</b>
+- 👯 I’m looking to collaborate on more Open Source Projects
+- 💬 Ask me about Software developement
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...I'm always learning
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
