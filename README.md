@@ -1,10 +1,19 @@
-### Hi there 👋 
-I'm a software developer from Nairobi, Kenya
+<h2> Hi, I'm Gina! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<p><em>Full-stack web developer</em></p>
 
-- 🔭 I’m currently working on <b>Open Source Projects</b>
-- 👯 I’m looking to collaborate on more Open Source Projects
-- 💬 Ask me about Software developement
-- 😄 Pronouns: she/her
+<h2><img src="https://i.stack.imgur.com/XGlad.gif" width="50"><b>A little more about me...</b></h2>
+
+```javascript
+const gina = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["she", "her"],
+  code: [JavaScript, React, Redux, Nodejs, Ruby on Rails, Python, Django, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Material UI],
+  askMeAbout: [Web development, DIYs, board games, travel shows],
+  challenge: "I am advancing my React skills and picking up Ruby",
+  funFacts: ["I'm an ambidextrous"]
+}
+```
 
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
