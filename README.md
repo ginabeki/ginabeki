@@ -5,7 +5,7 @@
 
 ```javascript
 const gina = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
+  aboutMe: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Nodejs, Ruby on Rails, Python, Django, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS, Material UI],
