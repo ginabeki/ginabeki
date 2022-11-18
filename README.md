@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ginabeki&label=PROFILE+VIEWS)
 
-[![@gina's Holopin board](https://holopin.io/api/user/board?user=gina)](https://holopin.io/@gina)
+[![@gina's Holopin board](https://holopin.me/gina)](https://holopin.io/@gina)
