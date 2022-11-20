@@ -4,7 +4,7 @@
 <h2><img src="https://i.stack.imgur.com/XGlad.gif" width="50"><b>A little more about me...</b></h2>
 
 ```javascript
-const gina = {
+let myInfo = {
   aboutMe: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Nodejs, Ruby on Rails, Python, Django, HTML/CSS, Semantic UI, Bootstrap, 
