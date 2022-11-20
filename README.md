@@ -1,8 +1,8 @@
 <h2> Hi, I'm Gina! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 <p><em>Full-stack web developer</em></p>
 
-<h2><img src="https://i.stack.imgur.com/XGlad.gif" width="50"><b>A little more about me...</b></h2>
-
+<!-- <h2><img src="https://i.stack.imgur.com/XGlad.gif" width="50"><b>A little more about me...</b></h2> -->
+<!-- 
 ```javascript
 let myInfo = {
   aboutMe: "Front-end developer" || "Full-stack web developer",
@@ -13,7 +13,7 @@ let myInfo = {
   challenge: "I am advancing my React skills and picking up Ruby",
   funFacts: ["I'm an ambidextrous"]
 }
-```
+``` -->
 
 <!--
 **ginabeki/ginabeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
