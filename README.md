@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gina! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Full-stack web developer</em></p>
+<p> A full-stack engineer with 2+ years of experience in developing highly interactive, accessible, reusable, and scalable applications.</p>
 <!-- 
 ```javascript
 let myInfo = {
